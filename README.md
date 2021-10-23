@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gibarr28
 - 👀 I’m interested in Video game programming/video game development, software engineering, and app development
-- 🌱 I’m currently learning on using Dart, Android Studio and Java.
+- 🌱 I’m currently learning on using Dart, Android Studio and Java. Recently have been learning more about Python and C#
 - 💞️ I’m looking to collaborate on no one at the moment, but hope I can collaborate with someone in the future.
 - 📫 How to reach me: My Email: ibarragerardo223@gmail.com and Linkedin: www.linkedin.com/in/gerardoibarracsula
 
